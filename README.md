@@ -1,1 +1,1 @@
-# text_summarization_using_seq2seq
+# Refer to Project Report [Text Summarization] 
